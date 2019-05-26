@@ -1,7 +1,7 @@
 /*
  *  waterpipe.js - v1.0
  *  jQuery plugin. Smoky backgrounds generator
- *  http://www.dragdropsite.com
+ *  https://www.dragdropsite.com
  *
  *  Made by dragdropsite.com
  *
